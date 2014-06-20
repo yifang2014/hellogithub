@@ -1,0 +1,138 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>YIFANG</Machine>
+    <WindowsUser>yifangma</WindowsUser>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>715da047-7123-406d-a432-19f73b52d6d7</PackageIdentityName>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\yifangma\Documents\Visual Studio 2013\Projects\AppBar\AppBar\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\yifangma\Documents\Visual Studio 2013\Projects\AppBar\AppBar\bin\Debug\AppBar.exe">
+      <PackagePath>AppBar.exe</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\yifangma\Documents\Visual Studio 2013\Projects\AppBar\AppBar\Assets\apple.jpg">
+      <PackagePath>Assets\apple.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\yifangma\Documents\Visual Studio 2013\Projects\AppBar\AppBar\Assets\Baseball-Player.jpg">
+      <PackagePath>Assets\Baseball-Player.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\yifangma\Documents\Visual Studio 2013\Projects\AppBar\AppBar\Assets\basketball.jpg">
+      <PackagePath>Assets\basketball.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\yifangma\Documents\Visual Studio 2013\Projects\AppBar\AppBar\Assets\basketballbaby.jpg">
+      <PackagePath>Assets\basketballbaby.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\yifangma\Documents\Visual Studio 2013\Projects\AppBar\AppBar\Assets\cat1.jpg">
+      <PackagePath>Assets\cat1.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\yifangma\Documents\Visual Studio 2013\Projects\AppBar\AppBar\Assets\cat2.jpg">
+      <PackagePath>Assets\cat2.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\yifangma\Documents\Visual Studio 2013\Projects\AppBar\AppBar\Assets\cat3.jpg">
+      <PackagePath>Assets\cat3.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\yifangma\Documents\Visual Studio 2013\Projects\AppBar\AppBar\Assets\cat4.jpg">
+      <PackagePath>Assets\cat4.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\yifangma\Documents\Visual Studio 2013\Projects\AppBar\AppBar\Assets\dog.jpg">
+      <PackagePath>Assets\dog.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\yifangma\Documents\Visual Studio 2013\Projects\AppBar\AppBar\Assets\dog1.jpg">
+      <PackagePath>Assets\dog1.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\yifangma\Documents\Visual Studio 2013\Projects\AppBar\AppBar\Assets\girl1.jpg">
+      <PackagePath>Assets\girl1.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\yifangma\Documents\Visual Studio 2013\Projects\AppBar\AppBar\Assets\girl2.jpg">
+      <PackagePath>Assets\girl2.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\yifangma\Documents\Visual Studio 2013\Projects\AppBar\AppBar\Assets\girl3.jpg">
+      <PackagePath>Assets\girl3.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\yifangma\Documents\Visual Studio 2013\Projects\AppBar\AppBar\Assets\girl5.jpg">
+      <PackagePath>Assets\girl5.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\yifangma\Documents\Visual Studio 2013\Projects\AppBar\AppBar\Assets\image5.jpg">
+      <PackagePath>Assets\image5.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\yifangma\Documents\Visual Studio 2013\Projects\AppBar\AppBar\Assets\images.jpg">
+      <PackagePath>Assets\images.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\yifangma\Documents\Visual Studio 2013\Projects\AppBar\AppBar\Assets\images1.jpg">
+      <PackagePath>Assets\images1.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\yifangma\Documents\Visual Studio 2013\Projects\AppBar\AppBar\Assets\images4.jpg">
+      <PackagePath>Assets\images4.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\yifangma\Documents\Visual Studio 2013\Projects\AppBar\AppBar\Assets\images6.jpg">
+      <PackagePath>Assets\images6.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\yifangma\Documents\Visual Studio 2013\Projects\AppBar\AppBar\Assets\kill.jpg">
+      <PackagePath>Assets\kill.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\yifangma\Documents\Visual Studio 2013\Projects\AppBar\AppBar\Assets\狗6.jpg">
+      <PackagePath>Assets\狗6.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\yifangma\Documents\Visual Studio 2013\Projects\AppBar\AppBar\Assets\e.png">
+      <PackagePath>Assets\e.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\yifangma\Documents\Visual Studio 2013\Projects\AppBar\AppBar\Assets\girl4.png">
+      <PackagePath>Assets\girl4.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\yifangma\Documents\Visual Studio 2013\Projects\AppBar\AppBar\Assets\images3.png">
+      <PackagePath>Assets\images3.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\yifangma\Documents\Visual Studio 2013\Projects\AppBar\AppBar\Assets\imagess2.png">
+      <PackagePath>Assets\imagess2.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\yifangma\Documents\Visual Studio 2013\Projects\AppBar\AppBar\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\yifangma\Documents\Visual Studio 2013\Projects\AppBar\AppBar\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\yifangma\Documents\Visual Studio 2013\Projects\AppBar\AppBar\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\yifangma\Documents\Visual Studio 2013\Projects\AppBar\AppBar\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\yifangma\Documents\Visual Studio 2013\Projects\AppBar\AppBar\Assets\w504.PNG">
+      <PackagePath>Assets\w504.PNG</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\yifangma\Documents\Visual Studio 2013\Projects\AppBar\AppBar\Assets\w505.PNG">
+      <PackagePath>Assets\w505.PNG</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\yifangma\Documents\Visual Studio 2013\Projects\AppBar\AppBar\Assets\狗1.png">
+      <PackagePath>Assets\狗1.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\yifangma\Documents\Visual Studio 2013\Projects\AppBar\AppBar\Assets\狗2.png">
+      <PackagePath>Assets\狗2.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\yifangma\Documents\Visual Studio 2013\Projects\AppBar\AppBar\Assets\狗3.png">
+      <PackagePath>Assets\狗3.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\yifangma\Documents\Visual Studio 2013\Projects\AppBar\AppBar\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\yifangma\Documents\Visual Studio 2013\Projects\AppBar\AppBar\bin\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\yifangma\Documents\Visual Studio 2013\Projects\AppBar\AppBar\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,37 @@
+﻿<Page
+    x:Class="AppBar.gridview"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:AppBar"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d">
+    <Page.TopAppBar>
+        <AppBar >
+       
+            <StackPanel    Orientation="Horizontal" HorizontalAlignment="Left">
+                <AppBarButton Icon="Home" Label="Home" Click="Home_Click"/>
+                <AppBarButton Icon="List" Label="list" Click="List_Click"/>
+                <AppBarButton Icon="Back" Label="Back" Click="Back_Click"/>
+            </StackPanel>
+            
+        </AppBar>
+    </Page.TopAppBar>
+    
+
+    <Grid Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+        <GridView FontSize="25" Name="gridm"
+ Margin="0,0,0,10" Width="1356" Height="758" HorizontalAlignment="Left" VerticalAlignment="Center" ScrollViewer.IsHorizontalScrollChainingEnabled="False" >
+            <GridView.ItemTemplate>
+                <DataTemplate>
+                    <Grid Height="200" Margin="0" HorizontalAlignment="Stretch" VerticalAlignment="Stretch">
+                        <StackPanel Orientation="Horizontal">
+                            <Image Source="{Binding Source1}" Stretch="UniformToFill" ></Image>
+                        </StackPanel>
+                    </Grid>
+                </DataTemplate>
+            </GridView.ItemTemplate>
+        </GridView>
+        
+    </Grid>
+</Page>
